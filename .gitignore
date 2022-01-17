@@ -1,3 +1,4 @@
 a.out
 output
 *.dSYM
+.DS_Store
