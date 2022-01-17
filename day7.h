@@ -11,7 +11,6 @@ public:
 
 private:
   const std::vector<std::string> Input;
-  
-  // int SolveThePuzzle();
+  int calculateMinExpense(bool isFuelChangeConstant);
 };
 
