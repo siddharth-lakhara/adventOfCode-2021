@@ -1,7 +1,7 @@
-#include "day7.h"
+#include "day8.h"
 
 int main() {
-  day7 Solver;
+  day8 Solver;
   Solver.PrintSolution1();
   Solver.PrintSolution2();
 }
