@@ -1,7 +1,5 @@
 # Ignore all files without extension
-*
-!/**/
-!*.*
+build/
 
 a.out
 output
