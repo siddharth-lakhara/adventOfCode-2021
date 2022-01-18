@@ -2,7 +2,7 @@ CC=g++
 CXX=/usr/bin/g++
 
 default: Utilities day9 main
-	g++ -std=c++20 -Wall -g build/Utilities.o build/day9.o build/main.o -o build/main
+	g++ -std=c++20 -Wall -g build/*.o -o build/main
 
 main: main.cpp
 	g++ -std=c++20 -Wall -g -c main.cpp -o build/main.o

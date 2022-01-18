@@ -3,5 +3,13 @@
     "vector": "cpp",
     "iostream": "cpp",
     "algorithm": "cpp"
-  }
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+  "makefile.launchConfigurations": [
+    {
+      "cwd": "/Users/slakhara/personal/try/adventOfCode2021",
+      "binaryPath": "/Users/slakhara/personal/try/adventOfCode2021/build/main",
+      "binaryArgs": []
+    }
+  ]
 }
