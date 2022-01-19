@@ -1,7 +1,7 @@
-#include "day9/day9.h"
+#include "day0/day0.h"
 
 int main() {
-  day9 Solver;
+  day0 Solver;
   Solver.PrintSolution1();
   Solver.PrintSolution2();
 }
