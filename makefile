@@ -1,7 +1,7 @@
 CC=g++
 CXX=/usr/bin/g++
 
-default: Utilities day0 main
+default: Utilities day10 main
 	g++ -std=c++20 -Wall -g build/*.o -o build/main
 
 main: main.cpp
