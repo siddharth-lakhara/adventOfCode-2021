@@ -2,6 +2,6 @@
 
 int main() {
   day9 Solver;
-  // Solver.PrintSolution1();
-  // Solver.PrintSolution2();
+  Solver.PrintSolution1();
+  Solver.PrintSolution2();
 }
